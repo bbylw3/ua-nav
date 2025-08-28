@@ -1,5 +1,20 @@
 # WebNav Hub 🇺🇦
 
+<div align="center">
+  <h2>🌍 多语言版本 / Multi-language / Багатомовна версія</h2>
+  <p>
+    <a href="#chinese">🇨🇳 中文</a> |
+    <a href="#english">🇺🇸 English</a> |
+    <a href="#ukrainian">🇺🇦 Українська</a>
+  </p>
+</div>
+
+---
+
+## 🇨🇳 中文 <a name="chinese"></a>
+
+### WebNav Hub 🇺🇦
+
 一个优雅的个人导航网站，采用乌克兰国旗色彩主题设计，为用户提供便捷的网站导航服务。
 
 ## 🌟 项目特色
@@ -166,7 +181,347 @@ webnav-hub/
 
 ---
 
+## 🇺🇸 English <a name="english"></a>
+
+### WebNav Hub 🇺🇦
+
+An elegant personal navigation website designed with Ukrainian flag color theme, providing convenient website navigation services for users.
+
+## 🌟 Project Features
+
+- **🇺🇦 Ukrainian Theme**: Using the classic blue (#005BBB) and yellow (#FFD700) colors of the Ukrainian flag
+- **📱 Responsive Design**: Perfect adaptation for desktop, tablet and mobile devices
+- **🎨 Modern UI**: Clean and elegant interface design with excellent user experience
+- **⚡ Fast Navigation**: Smooth scrolling and intelligent navigation functions
+- **🔗 Rich Resources**: Covering AI search, social media, utility tools, tech news, cloud storage, email and other categories
+
+## 📋 Features
+
+### 🎯 Core Functions
+- **Smart Navigation**: Click navigation bar to quickly jump to corresponding categories
+- **Smooth Scrolling**: Smooth scrolling within pages to enhance user experience
+- **URL Synchronization**: Support browser forward/backward and direct links to specific areas
+- **Hover Effects**: Link cards have elegant hover animation effects
+
+### 📂 Content Categories
+- **AI Search** (40+ tools): ChatGPT, Claude, Gemini, Tongyi Qianwen and other AI platforms
+- **Social Media**: Facebook, Twitter, Instagram, GitHub and other social platforms
+- **Utility Tools**: Translation, short links, network speed testing, domain management and other practical tools
+- **Tech News**: TechCrunch, The Verge, Ars Technica and other technology media
+- **Cloud Storage**: Google Drive, Dropbox, OneDrive and other cloud storage services
+- **Email**: Gmail, Outlook, ProtonMail and other email services
+
+## 🛠️ Tech Stack
+
+- **Frontend Framework**: Pure HTML5 + CSS3 + JavaScript
+- **Style Processing**: CSS Variables (CSS Custom Properties)
+- **Icon Library**: Font Awesome 6.7.2
+- **Responsive Layout**: CSS Grid + Flexbox
+- **Animation Effects**: CSS Transitions + Transforms
+
+## 🚀 Quick Start
+
+### Environment Requirements
+- Modern browsers (Chrome, Firefox, Safari, Edge)
+- JavaScript environment supporting ES6+
+
+### Installation and Usage
+
+1. **Clone the project**
+   ```bash
+   git clone https://github.com/your-username/webnav-hub.git
+   cd webnav-hub
+   ```
+
+2. **Run locally**
+   ```bash
+   # Method 1: Use Python simple server
+   python -m http.server 8000
+
+   # Method 2: Use Node.js
+   npx serve .
+
+   # Method 3: Open directly in browser
+   # Double-click index.html file or drag it into browser
+   ```
+
+3. **Access the website**
+   Open browser and visit `http://localhost:8000` or open `index.html` file directly
+
+## 📁 Project Structure
+
+```
+webnav-hub/
+├── index.html          # Main page file
+├── README.md           # Project documentation
+└── assets/             # Static resource directory (if any)
+```
+
+## 🎨 Design Philosophy
+
+### Color System
+- **Primary Color**: Ukrainian Blue (#005BBB) - Symbolizing sky and ocean
+- **Secondary Color**: Ukrainian Yellow (#FFD700) - Symbolizing sunshine and wheat fields
+- **Background Color**: Dark colors (#0d0d0d, #1a1a1a) - Providing comfortable reading experience
+
+### Interaction Design
+- **Hover Effects**: Cards have slight upward movement and shadow effects when hovered
+- **Color Transition**: Smooth color transition for icons and text when hovered
+- **Visual Feedback**: Navigation bar active state has obvious visual distinction
+
+## 🌍 Browser Compatibility
+
+- ✅ Chrome 70+
+- ✅ Firefox 65+
+- ✅ Safari 12+
+- ✅ Edge 79+
+- ✅ Mobile browsers (iOS Safari, Chrome Mobile)
+
+## 📱 Responsive Breakpoints
+
+- **Desktop**: > 1200px
+- **Tablet**: 768px - 1200px
+- **Mobile**: < 768px
+- **Small Phone**: < 480px
+- **Ultra Small**: < 360px
+
+## 🔧 Customization
+
+### Modify Color Theme
+Modify CSS variables in the `:root` style of `index.html` file:
+
+```css
+:root {
+  --primary-color: #005BBB;    /* Primary color */
+  --secondary-color: #FFD700;  /* Secondary color */
+  --bg-color: #0d0d0d;        /* Background color */
+  --card-bg-color: #1a1a1a;    /* Card background color */
+  --text-color: #fff;          /* Text color */
+}
+```
+
+### Add New Link Categories
+1. Add new navigation links in HTML
+2. Create corresponding `<section>` area
+3. Use `category-title` class to add category title
+4. Use `link-grid` class to create link grid
+
+## 🤝 Contribution Guidelines
+
+Welcome to submit Issues and Pull Requests to improve this project!
+
+1. Fork this repository
+2. Create feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to branch (`git push origin feature/AmazingFeature`)
+5. Open Pull Request
+
+## 📄 License
+
+This project uses MIT License - see [LICENSE](LICENSE) file for details
+
+## 🇺🇦 Support Ukraine - Condemn Russian Aggression
+
+We firmly support the Ukrainian people in resisting Russian aggression. As an open source project, we condemn Russia's illegal invasion of Ukraine and war crimes.
+
+### Our Position
+- **Support Ukrainian Sovereignty**: Ukraine is an independent sovereign state with the right to determine its own destiny
+- **Condemn Aggressive War**: Russia's invasion of Ukraine violates international law and the UN Charter
+- **Support Ukrainian People**: Express deepest sympathy to Ukrainian people suffering from war
+- **Call for Peace**: Support achieving fair peace solutions through diplomatic channels
+
+### Call to Action
+- Follow Ukrainian situation, support international humanitarian aid
+- Condemn war crimes, support international tribunals holding war criminals accountable
+- Spread truth, oppose war propaganda and disinformation
+
+## 🙏 Acknowledgments
+
+- **Ukrainian People**: Honor the brave Ukrainian people who show extraordinary courage and resilience in defending their homeland
+- **Ukrainian Army**: Honor the heroic Ukrainian armed forces defending national sovereignty
+- **International Community**: Thank all countries and people supporting Ukraine
+- **Open Source Community**: Thank all contributors to open source projects
+- **Design Inspiration**: Inspired by many excellent navigation websites
+
+## 📞 Contact Us
+
+If you have any questions or suggestions, please contact us through:
+- Email: your-email@example.com
+- GitHub Issues: [Submit Issue](https://github.com/your-username/webnav-hub/issues)
+
+---
+
+## 🇺🇦 Ukrainian <a name="ukrainian"></a>
+
+### WebNav Hub 🇺🇦
+
+Елегантний особистий сайт навігації, розроблений з використанням кольорів прапора України, що надає зручні послуги навігації веб-сайтами для користувачів.
+
+## 🌟 Особливості проекту
+
+- **🇺🇦 Українська тема**: Використання класичного синього (#005BBB) та жовтого (#FFD700) кольорів українського прапора
+- **📱 Адаптивний дизайн**: Ідеальна адаптація для настільних ПК, планшетів та мобільних пристроїв
+- **🎨 Сучасний інтерфейс**: Чистий та елегантний дизайн інтерфейсу з відмінним користувацьким досвідом
+- **⚡ Швидка навігація**: Плавна прокрутка та функції інтелектуальної навігації
+- **🔗 Багаті ресурси**: Охоплює AI-пошук, соціальні мережі, утиліти, технологічні новини, хмарне сховище, електронну пошту та інші категорії
+
+## 📋 Характеристики
+
+### 🎯 Основні функції
+- **Інтелектуальна навігація**: Клацніть панель навігації для швидкого переходу до відповідних категорій
+- **Плавна прокрутка**: Плавна прокрутка всередині сторінок для покращення користувацького досвіду
+- **Синхронізація URL**: Підтримка переходу вперед/назад у браузері та прямі посилання на конкретні області
+- **Ефекти наведення**: Картки посилань мають елегантні анімаційні ефекти наведення
+
+### 📂 Категорії вмісту
+- **AI-пошук** (40+ інструментів): ChatGPT, Claude, Gemini, Tongyi Qianwen та інші AI-платформи
+- **Соціальні мережі**: Facebook, Twitter, Instagram, GitHub та інші соціальні платформи
+- **Утиліти**: Переклад, короткі посилання, тестування швидкості мережі, управління доменами та інші практичні інструменти
+- **Технологічні новини**: TechCrunch, The Verge, Ars Technica та інші технологічні ЗМІ
+- **Хмарне сховище**: Google Drive, Dropbox, OneDrive та інші служби хмарного сховища
+- **Електронна пошта**: Gmail, Outlook, ProtonMail та інші служби електронної пошти
+
+## 🛠️ Технологічний стек
+
+- **Фронтенд фреймворк**: Чистий HTML5 + CSS3 + JavaScript
+- **Обробка стилів**: CSS Змінні (CSS Custom Properties)
+- **Бібліотека іконок**: Font Awesome 6.7.2
+- **Адаптивна верстка**: CSS Grid + Flexbox
+- **Анімаційні ефекти**: CSS Transitions + Transforms
+
+## 🚀 Швидкий старт
+
+### Вимоги до середовища
+- Сучасні браузери (Chrome, Firefox, Safari, Edge)
+- Середовище JavaScript з підтримкою ES6+
+
+### Встановлення та використання
+
+1. **Клонування проекту**
+   ```bash
+   git clone https://github.com/your-username/webnav-hub.git
+   cd webnav-hub
+   ```
+
+2. **Локальний запуск**
+   ```bash
+   # Спосіб 1: Використання простого сервера Python
+   python -m http.server 8000
+
+   # Спосіб 2: Використання Node.js
+   npx serve .
+
+   # Спосіб 3: Відкрити безпосередньо в браузері
+   # Подвійне клацання файлу index.html або перетягування в браузер
+   ```
+
+3. **Доступ до сайту**
+   Відкрийте браузер та перейдіть на `http://localhost:8000` або відкрийте файл `index.html` безпосередньо
+
+## 📁 Структура проекту
+
+```
+webnav-hub/
+├── index.html          # Головний файл сторінки
+├── README.md           # Документація проекту
+└── assets/             # Каталог статичних ресурсів (якщо є)
+```
+
+## 🎨 Філософія дизайну
+
+### Система кольорів
+- **Основний колір**: Український синій (#005BBB) - Символізує небо та океан
+- **Допоміжний колір**: Український жовтий (#FFD700) - Символізує сонце та поля пшениці
+- **Колір фону**: Темні кольори (#0d0d0d, #1a1a1a) - Забезпечують комфортний досвід читання
+
+### Дизайн взаємодії
+- **Ефекти наведення**: Картки мають легкий рух вгору та ефекти тіні при наведенні
+- **Перехід кольорів**: Плавний перехід кольорів для іконок та тексту при наведенні
+- **Візуальний зворотній зв'язок**: Активний стан панелі навігації має очевидну візуальну відмінність
+
+## 🌍 Сумісність браузерів
+
+- ✅ Chrome 70+
+- ✅ Firefox 65+
+- ✅ Safari 12+
+- ✅ Edge 79+
+- ✅ Мобільні браузери (iOS Safari, Chrome Mobile)
+
+## 📱 Адаптивні точки перелому
+
+- **Настільний ПК**: > 1200px
+- **Планшет**: 768px - 1200px
+- **Мобільний**: < 768px
+- **Малий телефон**: < 480px
+- **Надмалий**: < 360px
+
+## 🔧 Налаштування
+
+### Зміна кольорової теми
+Змініть CSS змінні в стилі `:root` файлу `index.html`:
+
+```css
+:root {
+  --primary-color: #005BBB;    /* Основний колір */
+  --secondary-color: #FFD700;  /* Допоміжний колір */
+  --bg-color: #0d0d0d;        /* Колір фону */
+  --card-bg-color: #1a1a1a;    /* Колір фону картки */
+  --text-color: #fff;          /* Колір тексту */
+}
+```
+
+### Додавання нових категорій посилань
+1. Додайте нові навігаційні посилання в HTML
+2. Створіть відповідну область `<section>`
+3. Використовуйте клас `category-title` для додавання заголовка категорії
+4. Використовуйте клас `link-grid` для створення сітки посилань
+
+## 🤝 Настанови щодо внеску
+
+Ласкаво просимо надсилати Issues та Pull Requests для покращення цього проекту!
+
+1. Форкніть це сховище
+2. Створіть гілку функції (`git checkout -b feature/AmazingFeature`)
+3. Здійсніть коміт змін (`git commit -m 'Add some AmazingFeature'`)
+4. Відправте в гілку (`git push origin feature/AmazingFeature`)
+5. Відкрийте Pull Request
+
+## 📄 Ліцензія
+
+Цей проект використовує ліцензію MIT - дивіться файл [LICENSE](LICENSE) для деталей
+
+## 🇺🇦 Підтримка України - Засудження російської агресії
+
+Ми твердо підтримуємо український народ у опорі російській агресії. Як проект з відкритим кодом, ми засуджуємо незаконне вторгнення Росії в Україну та воєнні злочини.
+
+### Наша позиція
+- **Підтримка українського суверенітету**: Україна є незалежною суверенною державою з правом визначати свою долю
+- **Засудження агресивної війни**: Вторгнення Росії в Україну порушує міжнародне право та Статут ООН
+- **Підтримка українського народу**: Виражаємо найглибші співчуття українському народу, який страждає від війни
+- **Заклик до миру**: Підтримуємо досягнення справедливих мирних рішень через дипломатичні канали
+
+### Заклик до дії
+- Слідкуйте за ситуацією в Україні, підтримуйте міжнародну гуманітарну допомогу
+- Засуджуйте воєнні злочини, підтримуйте міжнародні трибунали у притягненні військових злочинців до відповідальності
+- Поширюйте правду, протидійте воєнній пропаганді та дезінформації
+
+## 🙏 Подяки
+
+- **Український народ**: Вшановуємо хоробрий український народ, який проявляє надзвичайну мужність та витривалість у захисті своєї батьківщини
+- **Українська армія**: Вшановуємо героїчні Збройні сили України, які захищають національний суверенітет
+- **Міжнародна спільнота**: Дякуємо всім країнам та народам, які підтримують Україну
+- **Спільнота відкритого коду**: Дякуємо всім учасникам проектів з відкритим кодом
+- **Дизайнерське натхнення**: Натхненні багатьма відмінними сайтами навігації
+
+## 📞 Зв'язатися з нами
+
+Якщо у вас є запитання чи пропозиції, зв'яжіться з нами через:
+- Email: your-email@example.com
+- GitHub Issues: [Надіслати проблему](https://github.com/your-username/webnav-hub/issues)
+
+---
+
 <div align="center">
-  <p><strong>🇺🇦 荣耀属于乌克兰 🇺🇦</strong></p>
-  <p>Slava Ukraini! | Слава Україні!</p>
+  <p><strong>🇺🇦 Слава Україні! 🇺🇦</strong></p>
+  <p>Glory to Ukraine! | Слава Україні!</p>
 </div>
